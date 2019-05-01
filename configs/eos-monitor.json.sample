@@ -1,0 +1,12 @@
+{
+  "token": "xxxxxxxxx:yyyyyyyyyyyyyy",
+  "chat_id": "xxxxxxxxxx",
+  "node_endpoint": "https://jungle2.cryptolions.io",
+  "telegram_endpoint": "https://api.telegram.org/bot",
+  "limits": {
+    "net": 60,
+    "cpu": 60,
+    "ram": 70
+  },
+  "account": "xxxxxxxxxxxx"
+}
