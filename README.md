@@ -28,7 +28,9 @@ In the config file there are limits set. A warning will appear if you used resou
 Another message will appear in the chat if the resources drop below. Feel free to adjust the python code as necessary to your needs.
 
 ## Run
-> #Daemonise or simply run
-> python telegram.py
+```
+# Daemonise or simply run
+python telegram.py
+```
 
 
